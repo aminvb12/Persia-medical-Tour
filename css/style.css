@@ -1,0 +1,140 @@
+/* Your custom styles */
+
+.modal-header h5{
+    text-transform: capitalize;
+}
+
+.labelModal{
+    text-transform: capitalize;
+    color: black;
+}
+
+.navbar-brand{
+    text-transform: capitalize;
+
+}
+
+.modal-body{
+    /*background-color:whitesmoke;*/
+}
+
+#headingMainExplainAboutUs{
+    text-transform: capitalize;
+   text-align: center;
+    font-family: inherit;
+    font-weight: lighter;
+}
+
+#getNewsLetter{
+
+
+    color: white !important;
+    font-family: sans-serif,SansSerif;
+    text-transform: capitalize ;
+}
+
+.section-heading{
+    text-align: center;
+    font-weight: lighter;
+}
+.nav-link{
+    text-transform: capitalize !important;
+    color: #0D47A1 !important;
+
+}
+
+.navbar-brand{
+    /*color: #0c5460 !important;*/
+    font-family: 'Roboto' , sans-serif !important;
+    font-weight: 300;
+    color:#0D47A1 !important ;
+}
+
+.navbar-toggler-icon{
+    color: #0c5460 !important;
+}
+
+/*.navbar{*/
+    /*background-color: #c4e3f2;*/
+/*}*/
+/*!*#c4e3f2*!*/
+
+
+
+.fa-heart,.fa-eye,.fa-briefcase{
+    font-size: 4rem;
+}
+
+.col-md-4{
+    text-align: center;
+}
+
+#features>h1,#features>p{
+    padding-bottom: 20px;
+}
+#features>h1{
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+    color: black;
+}
+
+#features>p{
+    margin-bottom: 50px;
+}
+
+.card>h5{
+    margin: 1.5rem 0rem;
+    font-weight: 500;
+    font-weight: 500;
+}
+
+.lineTxt {
+    text-align: center;
+    margin-bottom: 70px;
+}
+
+.line {
+    height: 1px;
+    background: black;
+
+
+}
+
+h2 {
+    position: relative;
+    top: 26px;
+    background: #fff;
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.lineTxt>h2{
+    text-transform: capitalize;
+    font-weight: 500;
+}
+
+/*@media only screen and  (max-width: 1000px){*/
+    /*.navbar{*/
+        /*background-color: #b0bec5 !important; ;*/
+    /*}*/
+/*}*/
+
+
+.hm-blue-strong .full-bg-img,.hm-blue-strong .mask{
+    background-color: rgba(3,169,244,.7);
+}
+
+#photo{
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.divider-new h2{
+    margin-top: -45px;
+}
