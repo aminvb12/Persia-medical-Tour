@@ -19,7 +19,7 @@
  *
  * Support: https://mdbootstrap.com/support/
  *
- * Contact: office@mdbootstrap.com 
+ * Contact: office@mdbootstrap.com
  *
  * Atribution: Animate CSS, Twitter Bootstrap, Materialize CSS, Normalize CSS, Waves JS, WOW JS, Toastr, Chart.js , Hammer.js
  *
@@ -5908,10 +5908,10 @@ button:focus {
     .navbar .dropdown-menu a {
       font-size: 0.9375rem;
       font-weight: 300;
-      padding: 10px;
-      color: #000 !important; }
+      padding: 10px;}
+      /*color: #000 !important; }*/
       .navbar .dropdown-menu a:hover {
-        color: #fff !important; }
+        /*color: red !important; }*/}
     @media (max-width: 600px) {
       .navbar .dropdown-menu.dropdown-menu-right {
         right: auto !important; } }
@@ -6933,11 +6933,11 @@ body.scrollable {
 
 /*!
  * Waves v0.7.5
- * http://fian.my.id/Waves 
- * 
- * Copyright 2014-2016 Alfiana E. Sibuea and other contributors 
- * Released under the MIT license 
- * https://github.com/fians/Waves/blob/master/LICENSE 
+ * http://fian.my.id/Waves
+ *
+ * Copyright 2014-2016 Alfiana E. Sibuea and other contributors
+ * Released under the MIT license
+ * https://github.com/fians/Waves/blob/master/LICENSE
  */
 .waves-effect {
   position: relative;
